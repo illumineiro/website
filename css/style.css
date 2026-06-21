@@ -27,7 +27,12 @@ body {
     radial-gradient(circle at 80% 0%, rgba(0, 234, 255, 0.13) 0%, transparent 34%),
     radial-gradient(circle at 8% 70%, rgba(255, 79, 216, 0.11) 0%, transparent 38%),
     linear-gradient(180deg, #05060d 0%, #090d1f 48%, #05060d 100%);
-  font-family: 'M PLUS 1p', 'Hiragino Kaku Gothic ProN', Meiryo, sans-serif;
+  font-family:
+    'Zen Kaku Gothic New',
+    'Hiragino Kaku Gothic ProN',
+    'Yu Gothic',
+    Meiryo,
+    sans-serif;
   line-height: 1.75;
   overflow-x: hidden;
 }
