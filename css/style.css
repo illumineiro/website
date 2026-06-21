@@ -1154,6 +1154,13 @@ a:not(.site_logo):not(.btn):not(.portfolio_link):not(.link_card) {
   pointer-events: none;
 }
 
+.streaming_style_item {
+  padding: 0 0 40px;
+}
+.streaming_style_item:last-of-type{
+  padding: 0;
+}
+
 /* 追加調整：ガイドライン・支援方法 */
 .guideline_stack {
   display: grid;
